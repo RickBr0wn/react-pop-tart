@@ -1,0 +1,29 @@
+.pop-tart-outer-container {
+	padding: 2rem;
+	border-radius: 10px;
+	display: flex;
+	flex-direction: column;
+	min-width: 24rem;
+	max-width: 24rem;
+	color: #fff;
+	position: absolute;
+}
+
+.pop-tart-header {
+	display: flex;
+	justify-content: space-between;
+}
+
+.pop-tart-title {
+	font-weight: bold;
+	font-size: 1.8rem;
+}
+
+.pop-tart-button {
+	cursor: pointer;
+}
+
+.pop-tart-description {
+	margin-top: 1.2rem;
+	font-size: 1.4rem;
+}
